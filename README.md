@@ -1,4 +1,4 @@
-# Clicktrait-back-end
+# Clicktrait (2017)
 
 Clicktrait is a Conversion Rate Optimization SaaS product.
 It uses the A/B and MultiVariate testing concepts and basic statistical knowledge.
