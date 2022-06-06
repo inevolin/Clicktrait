@@ -13,9 +13,11 @@ It uses the A/B and MultiVariate testing concepts and basic statistical knowledg
 ## Demos
 
 http://www.youtube.com/watch?v=aoQSzdTOPCU
+
 [![](http://img.youtube.com/vi/aoQSzdTOPCU/0.jpg)](http://www.youtube.com/watch?v=aoQSzdTOPCU "")
 
 http://www.youtube.com/watch?v=sbKyP0CtEIM
+
 [![](http://img.youtube.com/vi/sbKyP0CtEIM/0.jpg)](http://www.youtube.com/watch?v=sbKyP0CtEIM "")
 
 https://www.slideshare.net/healzer/what-is-clicktrait
